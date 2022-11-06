@@ -1,4 +1,4 @@
-<h1 align-center>JS BACKGROUND MFK</h2>
+<h1 align-center>JS  CHANGING BACKGROUND COLOR </h2>
 <h2 align-center >First JAVASCRİPT project</h2>
 <h3>Proje İçeriği</h3>
 
